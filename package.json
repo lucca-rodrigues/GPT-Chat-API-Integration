@@ -1,0 +1,26 @@
+{
+  "name": "gpt-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucca-rodrigues/GPT-Chat-API-Integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucca-rodrigues/GPT-Chat-API-Integration/issues"
+  },
+  "homepage": "https://github.com/lucca-rodrigues/GPT-Chat-API-Integration#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "openai": "^3.1.0"
+  }
+}
