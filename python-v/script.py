@@ -1,7 +1,7 @@
 import os
 import openai
-openai.organization = "org-grVgVF2LeL5441nh4XFvNGtL"
-openai.api_key = "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"
+openai.organization = ""
+openai.api_key = ""
 openai.Model.list()
 
 
